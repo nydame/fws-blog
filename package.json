@@ -11,11 +11,15 @@
   "dependencies": {
     "@astrojs/cloudflare": "^12.5.4",
     "@astrojs/react": "^4.3.0",
+    "@supabase/supabase-js": "^2.50.0",
     "@tailwindcss/vite": "^4.1.8",
     "@types/react": "^19.1.6",
     "@types/react-dom": "^19.1.6",
     "astro": "^5.9.0",
+    "ra-input-rich-text": "^5.8.3",
+    "ra-supabase": "^3.5.0",
     "react": "^19.1.0",
+    "react-admin": "^5.8.3",
     "react-dom": "^19.1.0",
     "tailwindcss": "^4.1.8"
   }
